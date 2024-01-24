@@ -11,6 +11,7 @@
 		DFFDC28D2B60DE2E00F41582 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFDC28C2B60DE2E00F41582 /* ContentView.swift */; };
 		DFFDC28F2B60DE2F00F41582 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFFDC28E2B60DE2F00F41582 /* Assets.xcassets */; };
 		DFFDC2922B60DE2F00F41582 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFFDC2912B60DE2F00F41582 /* Preview Assets.xcassets */; };
+		DFFDC2992B60E1A500F41582 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFDC2982B60E1A500F41582 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DFFDC28C2B60DE2E00F41582 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DFFDC28E2B60DE2F00F41582 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFFDC2912B60DE2F00F41582 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DFFDC2982B60E1A500F41582 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DFFDC28A2B60DE2E00F41582 /* ProjectGitApp.swift */,
 				DFFDC28C2B60DE2E00F41582 /* ContentView.swift */,
+				DFFDC2982B60E1A500F41582 /* SecondView.swift */,
 				DFFDC28E2B60DE2F00F41582 /* Assets.xcassets */,
 				DFFDC2902B60DE2F00F41582 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFFDC2992B60E1A500F41582 /* SecondView.swift in Sources */,
 				DFFDC28D2B60DE2E00F41582 /* ContentView.swift in Sources */,
 				DFFDC28B2B60DE2E00F41582 /* ProjectGitApp.swift in Sources */,
 			);
